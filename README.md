@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @developerkawsar
+- 👋 welcome to full-stack web developer portal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Artificial Intelligence and Flutter 
-- 💞️ I’m looking to collaborate on flutter projects
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Artificial Intelligence projects
 - 📫 How to reach me : comment 
 
 <!---
